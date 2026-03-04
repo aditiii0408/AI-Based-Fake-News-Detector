@@ -1,4 +1,4 @@
-# 🔍 TruthLens — Fake News Detector (No API Key Needed)
+# 🔍 TruthLens — Fake News Detector
 
 ## ⚡ Setup (One Time)
 
